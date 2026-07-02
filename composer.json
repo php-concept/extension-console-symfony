@@ -1,7 +1,6 @@
 {
     "name": "php-concept/extension-console-symfony",
     "description": "Concept Console extension — Symfony Console application shell",
-    "version": "1.0.0",
     "type": "library",
     "license": "MIT",
     "autoload": {
